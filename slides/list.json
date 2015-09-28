@@ -31,7 +31,7 @@
             }
         },
         "cloud-1.md",
-        "cloud-4.md",        
+        "cloud-4.md",
         "cloud-2.md"
     ],
     [
@@ -108,5 +108,15 @@
         "elasticsearch.md",
         "metrics-monitoring.md",
         "hibernate-caching.md"
+    ],
+    [
+        "ionic.md",
+        "ionic-1.md",
+        "ionic-2.md",
+        "ionic-3.md",
+        "ionic-4.md",
+        "ionic-5.md",
+        "ionic-7.md"
     ]
+
 ]
