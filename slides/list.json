@@ -82,16 +82,23 @@
     ],
     "deep-dive.md",
     [
-        "jhipster.md",
-        "jhipster-stats.md",
-        "yeoman.md",
-        "jhipster-yeoman.md",
-        "jhipster-2.md",
-        "jhipster-6.md",
-        "jhipster-4.md",
-        "jhipster-5.md",
-        "jhipster-7.md",
-        "jhipster-3.md"
+        "ionic.md",
+        "ionic-1.md",
+        "ionic-2.md",
+        "ionic-3.md",
+        "ionic-4.md",
+        "ionic-5.md",
+        "ionic-7.md"
+    ],
+    [
+        "frontend-technology.md",
+        "grunt.md",
+        "bower.md",
+        "karma-phantomjs.md",
+        "angularjs.md",
+        "responsive-web-design.md",
+        "twitter-bootstrap.md",
+        "template-engine.md"
     ],
     [
         "backend-technology.md",
@@ -110,13 +117,15 @@
         "hibernate-caching.md"
     ],
     [
-        "ionic.md",
-        "ionic-1.md",
-        "ionic-2.md",
-        "ionic-3.md",
-        "ionic-4.md",
-        "ionic-5.md",
-        "ionic-7.md"
+        "jhipster.md",
+        "jhipster-stats.md",
+        "yeoman.md",
+        "jhipster-yeoman.md",
+        "jhipster-2.md",
+        "jhipster-6.md",
+        "jhipster-4.md",
+        "jhipster-5.md",
+        "jhipster-7.md",
+        "jhipster-3.md"
     ]
-
 ]
