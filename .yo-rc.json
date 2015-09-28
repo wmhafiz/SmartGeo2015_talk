@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Map Updating & Publishing in the Cloud",
+    "packageVersion": "1.0.0",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "fizyboy",
+    "githubRepository": "AGF2015_talk"
+  }
+}
