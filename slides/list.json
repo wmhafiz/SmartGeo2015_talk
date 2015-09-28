@@ -23,6 +23,17 @@
         "open-source-6.md"
     ],
     [
+        "mobile-app.md",
+        "mobile-app-1.md",
+        "mobile-app-2.md",
+        "mobile-app-3.md"
+    ],
+    [
+        "dashboard.md",
+        "dashboard-1.md",
+        "dashboard-2.md"
+    ],
+    [
         "cloud.md",
         {
             "filename": "cloud-3.md",
@@ -59,27 +70,6 @@
         "search-engine-1.md",
         "search-engine-2.md"
     ],
-    [
-        "mobile-app.md",
-        "mobile-app-1.md",
-        "mobile-app-2.md",
-        "mobile-app-3.md"
-    ],
-    [
-        "dashboard.md",
-        "dashboard-1.md",
-        "dashboard-2.md"
-    ],
-    [
-        "batch-processing.md",
-        "batch-processing-1.md",
-        "batch-processing-2.md"
-    ],
-    [
-        "system-design.md",
-        "system-design-1.md",
-        "system-design-2.md"
-    ],
     "deep-dive.md",
     [
         "ionic.md",
@@ -97,8 +87,7 @@
         "karma-phantomjs.md",
         "angularjs.md",
         "responsive-web-design.md",
-        "twitter-bootstrap.md",
-        "template-engine.md"
+        "twitter-bootstrap.md"
     ],
     [
         "backend-technology.md",
@@ -127,5 +116,10 @@
         "jhipster-5.md",
         "jhipster-7.md",
         "jhipster-3.md"
-    ]
+    ],
+    "demo.md",
+    "qa.md",
+    "what-we-are-building.md",
+    "mobile-app-4.md",
+    "mobile-app-5.md"
 ]

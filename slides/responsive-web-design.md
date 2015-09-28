@@ -1,5 +1,7 @@
 ##  Responsive Web Design
 
+<img style="background:none; border:none; box-shadow:none;" src="resources/responsive.png">
+
 - compatible with all resolutions & mobile devices
 
 note:
