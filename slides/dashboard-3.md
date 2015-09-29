@@ -1,6 +1,6 @@
-##  Edit Feedback
+##  Edit on the Go
 
-![](resources/dashboard-3.jpg)
+<img style="background:none; border:none; box-shadow:none; " src="resources/dashboard-4.png">
 
 note:
 - Edit/Assign feedbacks

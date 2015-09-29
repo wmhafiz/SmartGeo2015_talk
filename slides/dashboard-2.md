@@ -1,6 +1,6 @@
 ##  Manage Feedback
 
-![](resources/dashboard-2.jpg)
+<img style="background:none; border:none; box-shadow:none; max-width: 250%;" src="resources/dashboard-feedback.png">
 
 note:
 - view/edit/delete feedback
