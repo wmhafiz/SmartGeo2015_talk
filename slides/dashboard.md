@@ -1,5 +1,6 @@
 #  Dashboard
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- Administrators 
+- Manage all users
+- Web-based CMS Solution

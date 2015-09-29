@@ -2,8 +2,7 @@
 
 ![](resources/dashboard-2.jpg)
 
-
-
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- view/edit/delete feedback
+- filter by months
+- view charts / reports

@@ -1,6 +1,5 @@
 #  Centralized Spatial Data Store
 
 note:
-What?
-Why?
-How?
+- we need somewhere to store our spatial data
+- centralized database with spatial capability

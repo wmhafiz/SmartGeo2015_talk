@@ -9,5 +9,5 @@
 #### notifications alerts
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Social media plays an important role in our society
+ - higher engagement with the audience. 

@@ -9,5 +9,4 @@
 ##### choose from album
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- the pictures will be stored in the cloud

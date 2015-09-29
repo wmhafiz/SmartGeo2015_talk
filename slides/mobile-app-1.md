@@ -6,5 +6,5 @@
 
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Slide slide menu, cards, lists, navigation bars etc
+High Performance & Robust

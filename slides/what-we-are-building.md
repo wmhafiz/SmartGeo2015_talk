@@ -1,5 +1,5 @@
 #  what we are building
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- Before talking about the underlying technology
+- Show you some of the projects that we are working on

@@ -1,6 +1,6 @@
 #  Open Source
 
 note:
-- use open source?
-- GitHub or GitLab?
-- contributed to community?
+- raise of open source solutions
+- migrating all our products to open source
+  - show u why

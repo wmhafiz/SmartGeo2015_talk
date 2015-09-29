@@ -3,5 +3,6 @@
 ![](resources/control.jpg)
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- design our products the way we want it to be designed
+- lots of frameworks & tools to help us achieve it ourselves
+- we are in control

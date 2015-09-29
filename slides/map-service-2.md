@@ -14,5 +14,8 @@
     - GeoExplorer
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- all open sources
+- performance & analysis
+- cloud / web apps
+  - javascript sdk
+  - GeoSpatial CMS

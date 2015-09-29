@@ -1,4 +1,5 @@
 #  Map Tiling
 
 note:
-    Performance
+- Goal: Performance
+- What & How?
