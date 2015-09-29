@@ -32,20 +32,13 @@
         "dashboard-7.md"
     ],
     [
-        "centralized-database.md",
-        "centralized-database-2.md",
-        "centralized-database-1.md"
-    ],
-    [
-        "map-service.md",
-        "map-service-1.md",
-        "map-service-2.md"
-    ],
-    [
-        "map-tiling.md",
-        "map-tiling-1.md",
-        "map-tiling-2.md"
+        "technical-implementation.md",
+        "wms.md",
+        "technical-fastmap.md",
+        "technical-search.md",
+        "technical-offlinemap.md"
     ],
     "proof-of-concept.md",
+    "valuable-experience.md",
     "contact.md"
 ]
