@@ -7,7 +7,6 @@
         "about-3.md",
         "about-4.md"
     ],
-    "agenda.md",
     [
         "introduction.md",
         "background.md",
@@ -66,54 +65,5 @@
         "map-tiling.md",
         "map-tiling-1.md",
         "map-tiling-2.md"
-    ],
-    "deep-dive.md",
-    [
-        "ionic.md",
-        "ionic-1.md",
-        "ionic-2.md",
-        "ionic-3.md",
-        "ionic-4.md",
-        "ionic-5.md",
-        "ionic-7.md"
-    ],
-    [
-        "frontend-technology.md",
-        "grunt.md",
-        "bower.md",
-        "karma-phantomjs.md",
-        "angularjs.md",
-        "responsive-web-design.md",
-        "twitter-bootstrap.md"
-    ],
-    [
-        "backend-technology.md",
-        "maven.md",
-        "liquibase.md",
-        "spring-io.md",
-        "spring-boot.md",
-        "jpa.md",
-        "spring-data-jpa.md",
-        "spring-security.md",
-        "spring-mvc-rest.md",
-        "spring-profiles.md",
-        "properties.md",
-        "elasticsearch.md",
-        "metrics-monitoring.md",
-        "hibernate-caching.md"
-    ],
-    [
-        "jhipster.md",
-        "jhipster-stats.md",
-        "yeoman.md",
-        "jhipster-yeoman.md",
-        "jhipster-2.md",
-        "jhipster-6.md",
-        "jhipster-4.md",
-        "jhipster-5.md",
-        "jhipster-7.md",
-        "jhipster-3.md"
-    ],
-    "demo.md",
-    "qa.md"
+    ]
 ]
