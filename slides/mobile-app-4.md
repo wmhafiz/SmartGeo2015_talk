@@ -1,7 +1,8 @@
 ##  Add Feedback
 
-<img style="background:none; border:none; box-shadow:none; float:right; max-width: 40%; max-height: 40%; " src="resources/tmom-5.png">
+<img style="background:none; border:none; box-shadow:none; float:right; max-width: 35%; max-height: 35%; " src="resources/tmom-13.png">
 
+<BR/><BR/>
 #### detect location
 #### geocode into address
 #### attach picture

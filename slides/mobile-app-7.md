@@ -1,7 +1,7 @@
 ##  Authentication/Social Login
 
 <img style="background:none; border:none; box-shadow:none; float:left; max-width: 45%; max-height: 45%; " src="resources/tmom-11.png">
-
+<BR/><BR/>
 #### register/login
 #### login with facebook
 #### fetch profile picture
