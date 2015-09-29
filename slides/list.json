@@ -16,7 +16,7 @@
     "what-we-are-building.md",
     [
         "mobile-app.md",
-        "mobile-app-1.md",        
+        "mobile-app-1.md",
         "mobile-app-7.md",
         "mobile-app-2.md",
         "mobile-app-3.md",
@@ -28,7 +28,8 @@
     [
         "dashboard.md",
         "dashboard-1.md",
-        "dashboard-2.md"
+        "dashboard-2.md",
+        "dashboard-3.md"
     ],
     [
         "open-source.md",

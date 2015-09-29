@@ -1,8 +1,6 @@
-##  Manage Feedback
+##  Edit Feedback
 
-![](resources/dashboard-2.jpg)
-
-
+![](resources/dashboard-3.jpg)
 
 note:
     Put your speaker notes here.
