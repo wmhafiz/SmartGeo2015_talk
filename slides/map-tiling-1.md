@@ -1,6 +1,6 @@
 ##  Map Tiling
 
-<img style="background:none; border:none; box-shadow:none; float: right;" src="resources/maptiles.png">
+<img style="background:none; border:none; box-shadow:none; float: right; max-width: 60%; max-height: 60%;" src="resources/maptiles.png">
 
 - Map cutting 
     - smaller 

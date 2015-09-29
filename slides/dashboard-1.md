@@ -1,6 +1,6 @@
-##  Dashboard-1
+##  Any devices
 
-This is a new Markdown slide
+![](resources/dashboard-responsive.jpg)
 
 note:
     Put your speaker notes here.
