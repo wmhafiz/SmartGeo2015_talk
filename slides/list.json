@@ -13,6 +13,23 @@
         "background.md",
         "challengers.md"
     ],
+    "what-we-are-building.md",
+    [
+        "mobile-app.md",
+        "mobile-app-1.md",        
+        "mobile-app-7.md",
+        "mobile-app-2.md",
+        "mobile-app-3.md",
+        "mobile-app-4.md",
+        "mobile-app-5.md",
+        "mobile-app-6.md",
+        "mobile-app-8.md"
+    ],
+    [
+        "dashboard.md",
+        "dashboard-1.md",
+        "dashboard-2.md"
+    ],
     [
         "open-source.md",
         "open-source-1.md",
@@ -21,17 +38,6 @@
         "open-source-4.md",
         "open-source-5.md",
         "open-source-6.md"
-    ],
-    [
-        "mobile-app.md",
-        "mobile-app-1.md",
-        "mobile-app-2.md",
-        "mobile-app-3.md"
-    ],
-    [
-        "dashboard.md",
-        "dashboard-1.md",
-        "dashboard-2.md"
     ],
     [
         "cloud.md",
@@ -59,16 +65,6 @@
         "map-tiling.md",
         "map-tiling-1.md",
         "map-tiling-2.md"
-    ],
-    [
-        "restful-api.md",
-        "restful-api-1.md",
-        "restful-api-2.md"
-    ],
-    [
-        "search-engine.md",
-        "search-engine-1.md",
-        "search-engine-2.md"
     ],
     "deep-dive.md",
     [
@@ -118,8 +114,5 @@
         "jhipster-3.md"
     ],
     "demo.md",
-    "qa.md",
-    "what-we-are-building.md",
-    "mobile-app-4.md",
-    "mobile-app-5.md"
+    "qa.md"
 ]

@@ -1,6 +1,4 @@
-##  what we are building
-
-This is a new Markdown slide
+#  what we are building
 
 note:
     Put your speaker notes here.

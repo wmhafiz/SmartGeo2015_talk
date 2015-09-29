@@ -1,7 +1,6 @@
-##  Trimble Mobile Scanning (JUPEM)
+##  Trimble Mobile Scanner
 
 ![](resources/trimble.jpg)
-
 
 note:
 - Best Team award from TM Government for year 2015

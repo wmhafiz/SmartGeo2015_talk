@@ -1,6 +1,4 @@
-##  Mobile App
-
-This is a new Markdown slide
+#  Mobile App
 
 note:
     Put your speaker notes here.

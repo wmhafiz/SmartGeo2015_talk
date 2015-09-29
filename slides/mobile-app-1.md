@@ -1,6 +1,9 @@
-##  Mobile App-1
+##  Native Look
 
-This is a new Markdown slide
+<img style="background:none; border:none; box-shadow:none; float:right; max-width: 30%; max-height: 30%; " src="resources/tmom-1.png">
+
+<img style="background:none; border:none; box-shadow:none; max-width: 30%; max-height: 30%; " src="resources/tmom-2.png">
+
 
 note:
     Put your speaker notes here.

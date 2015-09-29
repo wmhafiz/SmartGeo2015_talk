@@ -1,6 +1,4 @@
-##  Dashboard
-
-This is a new Markdown slide
+#  Dashboard
 
 note:
     Put your speaker notes here.

@@ -1,14 +1,11 @@
-#  About Me
+#  About Us
 
-### Wan Mohd Hafiz
+### Speaker: Wan Mohd Hafiz
   - Telekom Malaysia Bhd
     - Geomatics Development Services (GDS)
   - Team Awards
       - Anugerah Kecemerlangan Geospatial 2014 (Smartmap)
-      - Best Team award from TM Government for year 2015 (JUPEM)
-  - Individual Awards
-      - GCEO Merit Award 2014
-      - Kristal Award Q2 2015
+      - Best Team award from TM Government for year 2015 (Trimble Mobile Scanner)
 
 note:
     joined GDS in 2007

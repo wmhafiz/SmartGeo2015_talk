@@ -1,6 +1,10 @@
-##  Mobile App-2
+##  Searching
 
-This is a new Markdown slide
+<img style="background:none; border:none; box-shadow:none; float:right; max-width: 60%; max-height: 60%; " src="resources/tmom-3.png">
+
+#### full text search 
+#### spatial query
+#### location aware
 
 note:
     Put your speaker notes here.
