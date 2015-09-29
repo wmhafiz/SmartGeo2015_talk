@@ -9,6 +9,14 @@
         "objective.md",
         "criteria.md"
     ],
+    "system-design",
+    [
+        "technical-implementation.md",
+        "wms.md",
+        "technical-fastmap.md",
+        "technical-search.md",
+        "technical-offlinemap.md"
+    ],
     [
         "mobile-app.md",
         "mobile-app-1.md",
@@ -30,13 +38,6 @@
         "dashboard-5.md",
         "dashboard-6.md",
         "dashboard-7.md"
-    ],
-    [
-        "technical-implementation.md",
-        "wms.md",
-        "technical-fastmap.md",
-        "technical-search.md",
-        "technical-offlinemap.md"
     ],
     "proof-of-concept.md",
     "valuable-experience.md",

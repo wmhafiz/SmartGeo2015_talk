@@ -1,6 +1,6 @@
 ##  System Design
 
-This is a new Markdown slide
+Diagram goes here
 
 note:
     Put your speaker notes here.
