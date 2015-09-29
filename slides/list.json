@@ -1,18 +1,14 @@
 [
     "index.md",
     [
-        "about-me.md",
-        "about-1.md",
-        "about-2.md",
-        "about-3.md",
-        "about-4.md"
-    ],
-    [
         "introduction.md",
-        "background.md",
-        "challengers.md"
+        "about-us.md",
+        "background-1.md",
+        "background-2.md",
+        "background-3.md",
+        "objective.md",
+        "criteria.md"        
     ],
-    "what-we-are-building.md",
     [
         "mobile-app.md",
         "mobile-app-1.md",
@@ -31,27 +27,6 @@
         "dashboard-3.md"
     ],
     [
-        "open-source.md",
-        "open-source-1.md",
-        "open-source-2.md",
-        "open-source-3.md",
-        "open-source-4.md",
-        "open-source-5.md",
-        "open-source-6.md"
-    ],
-    [
-        "cloud.md",
-        {
-            "filename": "cloud-3.md",
-            "attr": {
-                "data-background-video": "resources/What-is-Cloud-Computing.mp4"
-            }
-        },
-        "cloud-1.md",
-        "cloud-4.md",
-        "cloud-2.md"
-    ],
-    [
         "centralized-database.md",
         "centralized-database-2.md",
         "centralized-database-1.md"
@@ -65,5 +40,7 @@
         "map-tiling.md",
         "map-tiling-1.md",
         "map-tiling-2.md"
-    ]
+    ],
+    "proof-of-concept.md",
+    "contact.md"
 ]
