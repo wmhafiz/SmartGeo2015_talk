@@ -1,6 +1,4 @@
-#  Technical Implementation
-
+#  How we do solve our needs?
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+we presented you our problem statements, now how do we solve it?

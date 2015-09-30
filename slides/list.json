@@ -5,11 +5,14 @@
         "background-1.md",
         "background-2.md",
         "background-3.md"
-    ],    
+    ],
     [
         "technical-implementation.md",
         "objective.md",
-        "criteria.md",        
+        "criteria.md",
+        "criteria-1.md",
+        "criteria-2.md",
+        "criteria-3.md",        
         "system-design.md",
         "technical-wms.md",
         "technical-fastmap.md",
@@ -37,6 +40,6 @@
         "dashboard-7.md"
     ],
     "valuable-experience.md",
-    "proof-of-concept.md",    
+    "proof-of-concept.md",
     "contact.md"
 ]

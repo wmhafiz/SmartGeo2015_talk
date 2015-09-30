@@ -1,4 +1,4 @@
-##  Fast Map
+##  Fast Loading Map
 
 <img style="background:none; border:none; box-shadow:none; float: right; max-width: 60%; max-height: 60%;" src="resources/maptiles.png">  <!-- .element: class="fragment" data-fragment-index="1" -->
 
