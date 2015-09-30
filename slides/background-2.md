@@ -1,8 +1,16 @@
 ##  Service Provisioning
 
-<img style="background:none; border:none; box-shadow:none; float:top ; max-width: 70%; max-height: 70%;" src="resources/tmom-network.png"> <!-- .element: class="fragment" -->
+<div class="fragment" data-transition="slide-in fade-out" style="width: 40%; float:right;">
+    <img src="resources/provisioning-before.jpg">
+    Exact Search
+</div>    
+<div class="fragment data-transition="slide-in fade-out"" style="width: 60%; float:top;">
+    <img src="resources/tmom-network.png"> 
+    Map Virtualization
+</div>
+<br/>
+<h4 class="fragment slide-in" style="float:bottom;">TM Online Map reduces waiting list by 30%</h4>
 
-#### TM Online Map reduces waiting list by 20% <!-- .element: class="fragment" -->
 
 note:
 - previously, staff go to the ground to survey
