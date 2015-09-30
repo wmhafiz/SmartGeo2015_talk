@@ -9,4 +9,4 @@
 ##### as required by our **end users.** <!-- .element: class="fragment" -->
 
 note:
-To summarize my presentation
+To summarize my presentation today,..

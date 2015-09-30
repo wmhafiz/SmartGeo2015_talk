@@ -9,5 +9,5 @@
 #### notifications alerts
 
 note:
-Social media plays an important role in our society
+Social media plays an important role in today's society
  - higher engagement with the audience. 

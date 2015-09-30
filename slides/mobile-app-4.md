@@ -10,4 +10,6 @@
 ##### choose from album
 
 note:
-- the pictures will be stored in the cloud
+its much easier compared to sending a feedback in front of the PC
+- current location is captured automatically
+- take photo on the spot instead of forgetting it when we reach home

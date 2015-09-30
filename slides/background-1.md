@@ -5,7 +5,8 @@
 #### Smartmap improves sales by 40% <!-- .element: class="fragment" -->
 
 note:
-Sales dept to make informed business decisions
-- How many people in this area?
-- Where are my competitors?
+- We provide a solution for TM Sales dept to do Broadband Targeted marketing
+- They are able to do geospatial anaylsis such as
+  - How many people are in this area?
+  - Where are my competitors?
 

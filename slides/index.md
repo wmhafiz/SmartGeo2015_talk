@@ -8,3 +8,8 @@
 <img style="background:none; border:none; box-shadow:none;" src="resources/geosmart_logo.png">
 
 > Speaker: Wan Mohd Hafiz
+
+note:
+- Greeting
+- Introduce
+- We have a lot to cover, so let's get started!

@@ -1,4 +1,4 @@
 #  How we do solve our needs?
 
 note:
-we presented you our problem statements, now how do we solve it?
+We have presented our problem statements & outcome, but how did we get there?

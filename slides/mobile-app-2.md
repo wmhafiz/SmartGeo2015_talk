@@ -9,5 +9,4 @@
 #### location aware
 
 note:
-google like
-search restaurant near me
+searching is location-aware, so if you want to search a restaurant within 10 km from me, you can do so

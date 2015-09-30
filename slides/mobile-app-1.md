@@ -6,5 +6,4 @@
 
 
 note:
-Slide slide menu, cards, lists, navigation bars etc
-High Performance & Robust
+Side slide menu, cards, lists, navigation bars etc

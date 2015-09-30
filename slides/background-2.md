@@ -13,8 +13,12 @@
 
 
 note:
-- previously, staff go to the ground to survey
-  - a lot of effort
-  - human resource cost
-  - time comsuming
-- asset management
+have you ever Check Unifi coverage official Web Page?
+  - Enter search keyword in the respective field such as city or street
+    - Wrong input: unable to be found by search engine
+  - Presented in a tabular table
+    - why not virtualize that information in a map instead?
+    - neighbooring residential area has network equipments installed
+  - Bring in Smart Search (like google)
+    - with only 1 search field 
+    - if the record exists, it will find it!

@@ -5,5 +5,5 @@
 <img style="background:none; border:none; box-shadow:none; float:right; max-height:150;" src="resources/scalable.png">    
 
 note:
-    - Fast 
-    - Reliable
+    - Flexible & Extendible
+    - Easily scale up to support more users 

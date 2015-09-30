@@ -2,6 +2,7 @@
     "index.md",
     [
         "about-us.md",
+        "use-cases.md",
         "background-1.md",
         "background-2.md",
         "background-3.md"
@@ -12,8 +13,7 @@
         "criteria.md",
         "criteria-1.md",
         "criteria-2.md",
-        "criteria-3.md",        
-        "system-design.md",
+        "criteria-3.md",
         "technical-wms.md",
         "technical-fastmap.md",
         "technical-search.md",

@@ -1,6 +1,5 @@
 #  Dashboard
 
 note:
-- Administrators 
-- Manage all users
-- Web-based CMS Solution
+- Web-based CMS Solution used by Administrators 
+- Manage all users & contents

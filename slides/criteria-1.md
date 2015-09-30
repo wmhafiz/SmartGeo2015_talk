@@ -4,5 +4,5 @@
 <img style="background:none; border:none; box-shadow:none; float:right; max-height:150" src="resources/fast-shipping.png">    
 
 note:
-    - Affordable 
+    - Affordable by cutting many operational & license costs 
     - Fast & Robust

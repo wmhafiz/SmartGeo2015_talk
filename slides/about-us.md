@@ -10,6 +10,7 @@ Geomatics Development Services (GDS) <!-- .element: class="fragment" data-fragme
 #### **Internal TM Use** <!-- .element: class="fragment" data-fragment-index="4" -->
 
 note:
-Java, .NET, Javascript/AngularJS, PHP
-Our Role in TM
-Increase Productivity & Reduce Cost
+- GDS is a TM department specialized in geospatial solution & services
+- We maintain our own digital map, which is more detailed than Google Map (for Malaysia)
+- We keep our digital map up-to-date & commercialize it
+- We also help our other internal departments to help increase productivity & reduce their operational cost

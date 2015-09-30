@@ -1,8 +1,5 @@
-##  Offline Map
-
-This is a new Markdown slide
+#  Use Cases
 
 note:
     Put your speaker notes here.
     You can see them pressing 's'.
-

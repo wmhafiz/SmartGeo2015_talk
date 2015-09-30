@@ -5,4 +5,3 @@
 note:
 - view/edit/delete feedback
 - filter by months
-- view charts / reports

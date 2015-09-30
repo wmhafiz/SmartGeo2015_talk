@@ -13,7 +13,9 @@
 <br/>
 TMOM Mobile has increased map feedback by 70% <!-- .element: class="fragment" data-fragment-index="4" -->
 
-
-
 note:
-- scheduled every quarter
+- network planning requires accurate & up to date data
+- problem is: the world is rapidly changing everyday
+    - when we are preparing for our quarterly map update, lots of areas and shops have now opened up since then
+    - doesn't matter how many survey teams we send out, we can't keep up
+- we crowdsource map feedback to TM internal staff which has helped increased by 70%
