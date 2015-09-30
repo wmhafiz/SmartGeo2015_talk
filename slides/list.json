@@ -8,11 +8,11 @@
         "background-3.md",
         "objective.md",
         "criteria.md"
-    ],
-    "system-design.md",
+    ],    
     [
         "technical-implementation.md",
-        "wms.md",
+        "system-design.md",
+        "technical-wms.md",
         "technical-fastmap.md",
         "technical-search.md",
         "technical-offlinemap.md"
@@ -25,8 +25,7 @@
         "mobile-app-3.md",
         "mobile-app-4.md",
         "mobile-app-5.md",
-        "mobile-app-6.md",
-        "mobile-app-8.md"
+        "mobile-app-6.md"
     ],
     [
         "dashboard.md",

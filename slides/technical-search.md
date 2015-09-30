@@ -1,9 +1,14 @@
-##  Search
+##  Smart Search
 
-* Study
-* Remodel
-* Indexing
+<img style="background:none; border:none; box-shadow:none; float: right; max-width: 60%; max-height: 60%;" src="resources/isce.png">  
+
+<BR/><BR/>
+#### Study <!-- .element: class="fragment" -->
+<BR/>
+#### Remodel <!-- .element: class="fragment" -->
+<BR/>
+#### Indexing <!-- .element: class="fragment" -->
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- making search result relevent
+- 
