@@ -1,10 +1,10 @@
 ##  Proof of Concept
 
-- WMS Demo 
-  - Booth outside
+- Blazing-Fast WMS Demo 
+  - Booth is opened!
 
-- Lava Demo
-  - Case by case basis
+- End-to-End Demo
+  - Case-by-case basis
   - Appointment
 
 note:
