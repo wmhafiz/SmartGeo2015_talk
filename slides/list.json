@@ -26,8 +26,7 @@
         "mobile-app-4.md",
         "mobile-app-5.md",
         "mobile-app-6.md",
-        "mobile-app-8.md",
-        "mobile-app-9.md"
+        "mobile-app-8.md"
     ],
     [
         "dashboard.md",
@@ -39,7 +38,7 @@
         "dashboard-6.md",
         "dashboard-7.md"
     ],
-    "proof-of-concept.md",
     "valuable-experience.md",
+    "proof-of-concept.md",    
     "contact.md"
 ]
