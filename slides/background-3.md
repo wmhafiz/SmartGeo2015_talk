@@ -1,6 +1,6 @@
 ##  Map Updating
 
-<img style="background:none; border:none; box-shadow:none; float:right ; max-width: 20%; max-height: 20%;" src="resources/tmom-6.png" class="fragment" data-fragment-index="5"> 
+<img style="background:none; border:none; box-shadow:none; float:right ; max-width: 20%; max-height: 20%;" src="resources/tmom-6.png" class="fragment" data-fragment-index="5"> <!-- .element: class="fragment" -->
 
 - keep our map up to date <!-- .element: class="fragment" data-fragment-index="1" -->
   - scheduled every quarter<!-- .element: class="fragment" data-fragment-index="2" -->

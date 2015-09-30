@@ -1,6 +1,6 @@
 ##  Service Provisioning
 
-<img style="background:none; border:none; box-shadow:none; float:top ; max-width: 70%; max-height: 70%;" src="resources/tmom-network.png">
+<img style="background:none; border:none; box-shadow:none; float:top ; max-width: 70%; max-height: 70%;" src="resources/tmom-network.png"> <!-- .element: class="fragment" -->
 
 #### TM Online Map reduces waiting list by 20% <!-- .element: class="fragment" -->
 

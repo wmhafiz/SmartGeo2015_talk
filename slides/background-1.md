@@ -1,6 +1,6 @@
 ##  Targetted Marketing
 
-<img style="background:none; border:none; box-shadow:none; float:top ; max-width: 70%; max-height: 70%;" src="resources/smartmap-targettedmarketing.jpg">
+<img style="background:none; border:none; box-shadow:none; float:top ; max-width: 70%; max-height: 70%;" src="resources/smartmap-targettedmarketing.jpg"> <!-- .element: class="fragment" -->
 
 #### Smartmap improves sales by 20% <!-- .element: class="fragment" -->
 
