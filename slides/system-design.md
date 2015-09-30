@@ -1,6 +1,7 @@
 ##  System Design
 
-Diagram goes here
+
+<img style="background:none; border:none; box-shadow:none; " src="resources/LavaUserDiagram.png">  
 
 note:
     Put your speaker notes here.

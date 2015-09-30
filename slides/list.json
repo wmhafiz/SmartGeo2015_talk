@@ -5,12 +5,12 @@
         "about-us.md",
         "background-1.md",
         "background-2.md",
-        "background-3.md",
-        "objective.md",
-        "criteria.md"
+        "background-3.md"
     ],    
     [
         "technical-implementation.md",
+        "objective.md",
+        "criteria.md",        
         "system-design.md",
         "technical-wms.md",
         "technical-fastmap.md",

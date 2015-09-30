@@ -1,4 +1,4 @@
-##  Objective
+##  Solution Objective
 
 - Geospatial Analytics <!-- .element: class="fragment" -->
 - Fast Data Update <!-- .element: class="fragment" -->
