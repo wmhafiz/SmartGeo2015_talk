@@ -1,14 +1,15 @@
 #  About Us
 
-## Telekom Malaysia Bhd <!-- .element: class="fragment" -->
-Geomatics Development Services (GDS) <!-- .element: class="fragment" -->
+## Telekom Malaysia Bhd <!-- .element: class="fragment" data-fragment-index="0" -->
+Geomatics Development Services (GDS) <!-- .element: class="fragment" data-fragment-index="0" -->
 <BR/>
 
-## What we do <!-- .element: class="fragment" -->
-#### Map Update <!-- .element: class="fragment" -->
-#### Commercialize Map <!-- .element: class="fragment" -->
-#### **Internal TM Use** <!-- .element: class="fragment" -->
+## What we do <!-- .element: class="fragment" data-fragment-index="1" -->
+#### Map Update <!-- .element: class="fragment" data-fragment-index="2" -->
+#### Commercialize Map <!-- .element: class="fragment" data-fragment-index="3" -->
+#### **Internal TM Use** <!-- .element: class="fragment" data-fragment-index="4" -->
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+Java, .NET, Javascript/AngularJS, PHP
+Our Role in TM
+Increase Productivity & Reduce Cost

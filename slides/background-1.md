@@ -5,6 +5,7 @@
 #### Smartmap improves sales by 20% <!-- .element: class="fragment" -->
 
 note:
+Sales dept to make informed business decisions
 - How many people in this area?
 - What is their income level?
 - What is their spending pattern like?
