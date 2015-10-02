@@ -10,6 +10,5 @@
 > Speaker: Wan Mohd Hafiz
 
 note:
-- Greeting
-- Introduce
+- Greeting & Introducuction
 - We have a lot to cover, so let's get started!

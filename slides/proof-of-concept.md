@@ -2,7 +2,6 @@
 
 - Blazing-Fast WMS Demo  <!-- .element: class="fragment" data-fragment-index="1" -->
   - Booth is opened! <!-- .element: class="fragment" data-fragment-index="1" -->
-
 - End-to-End Demo <!-- .element: class="fragment" data-fragment-index="2" -->
   - Case-by-case basis <!-- .element: class="fragment" data-fragment-index="2" -->
   - Appointment <!-- .element: class="fragment" data-fragment-index="2" -->
